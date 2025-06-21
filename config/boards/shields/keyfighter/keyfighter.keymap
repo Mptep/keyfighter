@@ -55,7 +55,7 @@
         lt {
             bindings = <
                 &kp ESC     &kp N5      &kp N6      &kp N7      &kp N8      &kp N9      &kp N0      &kp N1      &kp N2      &kp N3      &kp N4      &kp BSLH        &kp DEL
-                &trans      &trans      &kp R       &kp C       &kp M       &kp T       &kp P       &trans      &trans      &trans      &trans      &trans          &trans        
+                &mo SYS     &trans      &kp R       &kp C       &kp M       &kp T       &kp P       &trans      &trans      &trans      &trans      &trans          &trans        
                 &trans      &trans      &kp GRAVE   &kp PSCRN   &kp CAPS    &kp LBKT    &kp RBKT    &mo MINUS   &mo EQUAL   &trans      &trans      &trans          &trans
                 &trans      &trans                                          &trans                                                      &trans      &trans          &trans
             >;
